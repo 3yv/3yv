@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Yoyo! <b><a rel="nofollow noopener noreferrer" target="_blank" href=""></a></b>.
+    Yoyo ! <b><a rel="nofollow noopener noreferrer" target="_blank" href=""></a></b>.
     <br><br>
 </samp>
 
